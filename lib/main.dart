@@ -13,6 +13,7 @@ class MyApp extends StatelessWidget {
 
       theme: ThemeData(
         // Lijn toegevoegd aan de code voor het testen van github
+        // Lijn 2 toegevoegd
         // This is the theme of your application.
         //
         // Try running your application with "flutter run". You'll see the
