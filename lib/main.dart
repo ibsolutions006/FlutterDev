@@ -9,8 +9,10 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter Demo op de Iphone Van Paul',
+      title: 'Flutter Demo Iphone Van Paul',
+
       theme: ThemeData(
+        // Lijn toegevoegd aan de code voor het testen van github
         // This is the theme of your application.
         //
         // Try running your application with "flutter run". You'll see the
